@@ -1,0 +1,5 @@
+{
+    "final_workflow_outputs_dir": "/vol1/cromwell_outputs/outputs",
+    "final_call_logs_dir": "/vol1/cromwell_outputs/call_logs",
+    "final_workflow_log_dir": "/vol1/cromwell_outputs/wf_logs"
+}
